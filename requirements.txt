@@ -1,0 +1,4 @@
+aioredis==2.0.1
+httpx==0.24.1
+python-telegram-bot==20.0
+python-json-logger==2.0.2
